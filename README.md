@@ -12,22 +12,22 @@ My goal is to become a skilled Frontend Developer by building projects, solving 
 
 ## ✅ Phase 1 - JavaScript Fundamentals
 
-- [ ] Variables
-- [ ] Data Types
-- [ ] Operators
-- [ ] Type Conversion
-- [ ] Truthy & Falsy
-- [ ] if...else
-- [ ] Switch Statements
-- [ ] Ternary Operator
-- [ ] Functions
-- [ ] Arrays
-- [ ] Objects
-- [ ] Loops
-- [ ] Destructuring
-- [ ] Spread & Rest Operator
-- [ ] Optional Chaining
-- [ ] Array Methods
+- [✅] Variables
+- [✅] Data Types
+- [✅] Operators
+- [✅] Type Conversion
+- [✅] Truthy & Falsy
+- [✅] if...else
+- [✅] Switch Statements
+- [✅] Ternary Operator
+- [✅] Functions
+- [✅] Arrays
+- [✅] Objects
+- [✅] Loops
+- [✅] Destructuring
+- [✅] Spread & Rest Operator
+- [✅] Optional Chaining
+- [✅] Array Methods
 
 ---
 
