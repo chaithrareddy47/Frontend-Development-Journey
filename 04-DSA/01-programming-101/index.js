@@ -44,6 +44,35 @@ let arr = [2, 6, 7, 9, 0, 4]
 console.log(arr); 
 
 
+let sum1 = arr[0] + arr[4];
+console.log(sum1);
+
+console.log(arr[6]);
+
+
+// array of strings
+
+let arrStr = ['a', 'b', 'c']
+console.log(arrStr);
+
+let diffArr = ["akshay", 7, true]
+    console.log(diffArr);
+    
+
+let arr1 = ["akshay", 7, [5, 10]]
+console.log(arr1[2][0]);
+
+
+//objects 
+let obj = {
+    firstName: 'akshay',
+    lastName: "saini"
+}
+
+console.log(obj.firstName + obj.lastName );
+
+
+
 
 
 
