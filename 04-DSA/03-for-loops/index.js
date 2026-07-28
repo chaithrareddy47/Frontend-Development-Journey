@@ -27,9 +27,20 @@ for (let i = 0; i < 0; i++){
     console.log("hi");
     
 }
-for (let i = 1; i > 0; i++){
-    console.log("hi");
+// for (let i = 1; i > 0; i++){
+//     console.log("hi");
     
+// } this is infinatie loop
+
+// function inside loop
+
+function greet(){
+    console.log("Namaste!");
+    
+}
+
+for (let i = 0; i < 10; i++){
+    greet()
 }
 
 

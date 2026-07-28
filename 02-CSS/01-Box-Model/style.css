@@ -1,0 +1,21 @@
+.p{
+    width: 250px;
+    height: 150px;
+    padding: 20px;
+    border: 2px solid blue;
+    margin: 30px;
+}
+
+img{
+    width: 150px;
+    height: 150px;
+}
+
+div{
+    width: 200px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+
+}
+
