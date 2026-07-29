@@ -1,0 +1,24 @@
+.conatiner a{
+    display: block;
+    text-decoration: none;
+}
+
+.conatiner{
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+
+.container p{
+display: inline;
+}
+
+.container1 p{
+display: none;
+}
+
+.con{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
