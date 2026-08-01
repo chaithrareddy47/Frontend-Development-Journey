@@ -34,13 +34,35 @@ for (let i = 0; i < 0; i++){
 
 // function inside loop
 
-function greet(){
-    console.log("Namaste!");
+// function greet(){
+//     console.log("Namaste!");
+    
+// }
+
+// for (let i = 0; i < 10; i++){
+//     greet()
+// }
+
+
+// arrays with loops
+let arr =[2,7,6,4,2,0]
+for (let i = 0; i < arr.length; i++){
+    console.log(arr[i]);
     
 }
 
-for (let i = 0; i < 10; i++){
-    greet()
+let arr1=[10,7,5,0,8]
+for (let i = 0; i < arr1.length; i++){
+    if (arr1[i] % 2 === 0) {
+        console.log(arr1[i] + "" + " is even");
+        
+    }
 }
 
+// while loop
+let i = 0;
+while (i < 5) {
+    console.log("hello world");
+    i++
+}
 
