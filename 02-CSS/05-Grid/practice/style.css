@@ -1,0 +1,16 @@
+.item{
+    background-color: sandybrown;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    
+}
+
+.grid-container{
+    display: grid;
+   grid-template-columns: 1fr 3fr;
+   
+}

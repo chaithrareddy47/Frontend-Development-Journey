@@ -1,0 +1,38 @@
+/* .container{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+grid-template-rows: repeat(3,1fr);
+gap: 20px;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: darksalmon;
+    border-radius: 10px;
+} */
+
+.container{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+grid-template-rows: repeat(3,1fr);
+}
+.box{
+    background-color: seagreen;
+    width: 100px;
+    height: 100px;
+}
+
+
+.insta-gallery{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+
+
+}
+.insta-gallery img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
