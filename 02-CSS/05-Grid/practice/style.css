@@ -1,16 +1,44 @@
 .item{
     background-color: sandybrown;
-    padding: 20px;
+
     text-align: center;
     color: white;
     border-radius: 10px;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+   height: 100px;
     
 }
 
 .grid-container{
+    gap: 10px;
+    border: 2px solid black;
     display: grid;
-   grid-template-columns: 1fr 3fr;
+grid-template-columns: 1fr 3fr;
+grid-template-rows: 5rem 1fr;
    
 }
+
+
+
+
+/* 
+FR Unit (Fraction)
+
+• fr divides the available space inside a grid container.
+• 1fr 1fr = Equal width columns.
+• 2fr 1fr = First column gets twice the space.
+• fr is responsive because it adjusts when the container size changes.
+
+Use:
+✔ Grid layouts
+✔ Dashboards
+✔ Galleries
+✔ Product cards
+
+Use px:
+✔ Fixed size (logo, icon, image)
+
+Use %:
+✔ Size relative to the parent element
+
+*/
