@@ -1,125 +1,88 @@
-# 🚀 Frontend Developer Journey
+# 🚀 Frontend Development Journey
 
-Welcome to my Frontend Development Journey! 👋
+Welcome! 👋
 
-This repository documents my complete roadmap from JavaScript fundamentals to becoming a job-ready Frontend Developer.
+This repository documents my journey to becoming a Frontend Developer.
 
-My goal is to become a skilled Frontend Developer by building projects, solving DSA problems, and continuously improving my problem-solving skills.
-
----
-
-# 📚 Learning Roadmap
-
-## ✅ Phase 1 - JavaScript Fundamentals
-
-- [✅] Variables
-- [✅] Data Types
-- [✅] Operators
-- [✅] Type Conversion
-- [✅] Truthy & Falsy
-- [✅] if...else
-- [✅] Switch Statements
-- [✅] Ternary Operator
-- [✅] Functions
-- [✅] Arrays
-- [✅] Objects
-- [✅] Loops
-- [✅] Destructuring
-- [✅] Spread & Rest Operator
-- [✅] Optional Chaining
-- [✅] Array Methods
+I'm learning step by step by studying fundamentals, solving DSA problems, building projects, and practicing consistently.
 
 ---
 
-## 🚀 Phase 2 - DOM
+# 📂 Repository Structure
 
-- [ ] Selecting Elements
-- [ ] DOM Traversing
-- [ ] Event Listeners
-- [ ] Event Bubbling
-- [ ] Event Delegation
-- [ ] DOM Projects
+## 📁 01-HTML
 
----
-
-## ⚡ Phase 3 - Async JavaScript
-
-- [ ] Call Stack
-- [ ] Execution Context
-- [ ] Web APIs
-- [ ] Event Loop
-- [ ] Callback
-- [ ] Promise
-- [ ] Promise Chaining
-- [ ] Async Await
-- [ ] Fetch API
-- [ ] JSON
-- [ ] Error Handling
+- HTML Basics
+- Forms
+- Semantic HTML
+- Accessibility
 
 ---
 
-## ⚙️ Phase 4 - React
+## 📁 02-CSS
 
-- [ ] JSX
-- [ ] Components
-- [ ] Props
-- [ ] State
-- [ ] Events
-- [ ] Conditional Rendering
-- [ ] Lists & Keys
-- [ ] Forms
-- [ ] Hooks
-- [ ] useState
-- [ ] useEffect
-- [ ] useContext
-- [ ] Custom Hooks
-- [ ] React Router
-- [ ] API Integration
-- [ ] Performance Optimization
+- Selectors
+- Box Model
+- Position
+- Flexbox
+- Grid
+- Responsive Design
+- Animations
 
 ---
 
-## 🌐 Phase 5 - Next.js
+## 📁 03-JavaScript
 
-- [ ] Routing
-- [ ] Layouts
-- [ ] Server Components
-- [ ] Client Components
-- [ ] API Routes
-- [ ] Authentication
-- [ ] Deployment
+### Fundamentals
 
----
+- Variables
+- Data Types
+- Operators
+- Loops
+- Functions
+- Arrays
+- Objects
 
-## 💻 Phase 6 - Projects
+### Advanced
 
-- [ ] Calculator
-- [ ] Todo App
-- [ ] Weather App
-- [ ] Movie Search App
-- [ ] Expense Tracker
-- [ ] E-commerce Store
-- [ ] Chat Application
-- [ ] Portfolio Website
+- DOM
+- Async JavaScript
+- Promises
+- Fetch API
+- ES6+
 
 ---
 
-## 🧠 Phase 7 - DSA
+## 📁 04-DSA
 
-- [ ] Time Complexity
-- [ ] Arrays
-- [ ] Recursion
-- [ ] Hashing
-- [ ] Binary Search
-- [ ] Strings
-- [ ] Linked List
-- [ ] Stack
-- [ ] Queue
-- [ ] Trees
-- [ ] BST
-- [ ] Heap
-- [ ] Graph
-- [ ] Dynamic Programming
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Recursion
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+
+---
+
+## 📁 05-Practice
+
+- JavaScript Problems
+- CSS Challenges
+- Mini Projects
+- Interview Questions
+
+---
+
+# 🎯 Current Focus
+
+- ✅ CSS Flexbox
+- ✅ JavaScript Fundamentals
+- 🟡 DSA (Arrays)
+- 🔜 DOM
 
 ---
 
@@ -127,75 +90,34 @@ My goal is to become a skilled Frontend Developer by building projects, solving 
 
 - HTML5
 - CSS3
-- JavaScript (ES6+)
-- React
-- Next.js
+- JavaScript
 - Git
 - GitHub
 
 ---
 
-# 📂 Folder Structure
+# 📈 Learning Goal
 
-```
+✔ Build strong fundamentals
 
-Frontend-Journey
+✔ Solve DSA consistently
 
-│
+✔ Build real-world projects
 
-├── 01-JavaScript/
+✔ Learn React
 
-├── 02-React/
-
-├── 03-NextJS/
-
-├── 04-Projects/
-
-├── 05-DSA/
-
-└── README.md
-
-```
+✔ Become job-ready
 
 ---
 
-# 🎯 Goals
+# 🌱 Progress
 
-- Master JavaScript
-- Become proficient in React
-- Build production-ready projects
-- Solve DSA consistently
-- Prepare for Frontend Interviews
-- Secure a Frontend Developer role
-
----
-
-# 📈 Progress
-
-Current Focus:
-
-🟢 JavaScript Fundamentals
-
-Progress:
-
-██████░░░░░░░░░ 35%
+- HTML ✅
+- CSS 🟡
+- JavaScript 🟡
+- DSA 🟡
+- React ⏳
 
 ---
 
-# 🌟 Daily Routine
-
-- JavaScript
-- DSA
-- Build Projects
-- GitHub Commits
-- Revision
-
----
-
-
-
-# 📫 Connect
-
-GitHub: https://github.com/yourusername
-
-
+Thanks for visiting my repository! ⭐
