@@ -1,21 +1,43 @@
-.item{
+/* .item{
     background-color: sandybrown;
 
     text-align: center;
     color: white;
     border-radius: 10px;
-    width: 100%;
+    width: 100px;
    height: 100px;
     
 }
 
 .grid-container{
-    gap: 10px;
+
     border: 2px solid black;
     display: grid;
 grid-template-columns: 1fr 3fr;
-grid-template-rows: 5rem 1fr;
+
    
+} */
+
+.grid-container{
+    border: 2px solid black;
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(5,1fr);
+    grid-template-rows: repeat(5,1fr);
+   
+
+}
+.item{
+    width: 50px;
+    height: 50px;
+    background-color: sandybrown;
+    border-radius: 10px;
+  
+
+}
+
+.item1{
+    grid-column: span 3;
 }
 
 
@@ -40,5 +62,38 @@ Use px:
 
 Use %:
 ✔ Size relative to the parent element
+
+
+Explicit Grid
+
+↓
+
+Rows and Columns created by us.
+
+Created using:
+
+✔ grid-template-columns
+
+✔ grid-template-rows
+
+-----------------------------------
+
+Implicit Grid
+
+↓
+
+Rows or Columns created automatically by CSS Grid when more space is needed.
+
+Reason:
+
+More grid items than available cells.
+
+-----------------------------------
+
+Remember
+
+Explicit = We create
+
+Implicit = CSS creates
 
 */
