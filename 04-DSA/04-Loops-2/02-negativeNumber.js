@@ -2,7 +2,7 @@ let arr = [2, -9, 17, 0, 1, -10, -4, 8]
 
 function negativeNumber() {
     for (let i = 0; i < arr.length; i++){
-        if (arr[i] < 0) { kk
+        if (arr[i] < 0) { 
             console.log(arr[i]);
             
             
